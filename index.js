@@ -134,3 +134,6 @@ function showSchedule(n){
 		}
 	}
 }
+function openFileManager() {
+    document.getElementById("myFile").click();
+}
